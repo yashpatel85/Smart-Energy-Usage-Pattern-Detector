@@ -10,11 +10,6 @@ __pycache__/
 data/raw/
 data/processed/
 
-# Model binaries
-models/*.pkl
-
-# Outputs (images/plots etc.)
-Outputs/
 
 # Environment/config files
 .env
