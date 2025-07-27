@@ -75,5 +75,7 @@ Dashboard with trend graphs and anomaly heatmaps
 
 Cloud deployment via AWS EC2 & Streamlit Sharing
 
+Extract the 'data_compressed.zip' to access the raw and the processed csv files.
+
 👨‍💻 Author
 Yash Patel
